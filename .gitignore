@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# IP DATABASE
+GeoLite2-ASN_20250826/
+GeoLite2-City_20250826/
+GeoLite2-Country_20250826/
